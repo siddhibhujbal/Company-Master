@@ -17,7 +17,6 @@ This Java-based desktop application allows users to manage and store company det
   - Phone
   - Website
   - Description
-  - Logo (file path or binary data)
   - Contact Person and Designation
 - MySQL database integration
 - Data persistence and validation
